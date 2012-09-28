@@ -44,6 +44,6 @@ GDG Dartlang Korea
 * 회원 활동을 적극적으로 해주시는 분들을 위한 자그마한 장을 만들었습니다.
 * 추후 재 공지 될 예정입니다.
 
-# [WIKI](https://github.com/Songhun/GDG-Dartlang-Korea/wiki)
+## [WIKI](https://github.com/Songhun/GDG-Dartlang-Korea/wiki)
 * GDG Dartlang Korea의 간략한 소개와 링크
 * Dart언어를 시작하기 위한 소개가 있습니다.
